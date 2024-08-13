@@ -7,5 +7,6 @@ export default defineConfig({
   base: "/weather-app2.0/",
   server:{
     port: 3000,
+    
   }
 })
