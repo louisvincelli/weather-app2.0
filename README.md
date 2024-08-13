@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p className="justify-center items-center">
-    <img src="screenshot-weather-app.png" alt="screenshot" >
+    <img src="images/screenshot-weather-app.png" alt="screenshot" >
   </a>
 
   <p className="justify-center items-center">
