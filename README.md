@@ -38,6 +38,7 @@ This application is designed to pull current weather data for any city along wit
 ### Built With
 
 - [ReactJS](https://react.dev/)
+- [Vite](https://vitejs.dev/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [CSS](https://www.google.com/)
 - [OpenWeatherMap](https://www.https://openweathermap.org/)
